@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;500&family=Quicksand:wght@300;500&family=Sen:wght@400;700&display=swap');
+
+*{
+    color: white;
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Sen', sans-serif; */
+}
+
+body{
+    background-color: rgb(1, 20, 12);
+
+    .chatbox{
+        border-width: 3px;
+        border-color: rgb(0, 237, 130);
+        border-style: solid;
+        border-radius: 10px;
+        background-color: black;
+        height: 30px;
+        width: 600px;
+    }
+}

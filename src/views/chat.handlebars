@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Application's Chat</title>
+</head>
+<body>
+  <h1>Chat with us</h1>
+
+  {{#each messages}}
+  <ul style="background-color: green; 
+  padding: 10px; color: navy;">
+    <li>{{this.user}}</li>
+    <li>{{this.message}}</li>
+    <hr>
+  </ul>
+{{/each}}
+
+  <ul style="background-color: green; 
+  padding: 10px; margin-bottom: 10px; color: aqua;" id="newMessage">
+
+  </ul>
+  <script src="/socket.io/socket.io.js"></script>
+<script src="/js/chat.js"></script>
+</body>
+</html>
+
+{{!-- <h1>Chat with us!!</h1>
+<div class="chatboxcontainer">
+    <input id="chatbox" class="chatbox" placeholder="Write a message...">
+</div>
+<div class="msgscontainer">
+    <p id="messagespot"></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/chat.js"></script> --}}

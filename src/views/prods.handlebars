@@ -1,0 +1,22 @@
+<h1>Products</h1>
+<div class="gridcontainer">
+    {{#each allProds}}
+        <div class="prodspot">
+            <h3>{{this.title}}</h3>
+            <p>{{this.description}}</p>
+            <h4>${{this.price}}</h4>
+            <p>Stock: {{this.stock}}</p>
+            <p>Category: {{this.category}}</p>
+            <button>Add To Cart</button>
+        </div>
+    {{/each}}
+</div>
+<div>
+    {{#if workedDocs.hasPrevPage}}
+    <a href="/products?page={{workedDocs.prevPage}}">Previous Page</a>
+    {{/if}}
+    <span>Page {{workedDocs.page}} of {{workedDocs.totalPages}}</span>
+    {{#if workedDocs.hasNextPage}}
+    <a href="/products?page={{workedDocs.nextPage}}">Next Page</a>
+    {{/if}}
+</div>

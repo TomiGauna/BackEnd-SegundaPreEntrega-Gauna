@@ -1,0 +1,227 @@
+[
+	{
+		"title": "Apple iPhone 14",
+		"description": "Built and designed by Apple Inc.",
+		"price": 315000,
+        "category": "smartphone",
+		"code": 101,
+		"stock": 51,
+		"thumbnail": []
+	},
+	{
+		"title": "Moto G72",
+		"description": "Smartphone made by Motorola",
+		"price": 83000,
+        "category": "smartphone",
+		"code": 102,
+		"stock": 33,
+		"thumbnail": []
+	},
+	{
+		"title": "Beats Solo3 Headphones",
+		"description": "Wireless Headphones made by Beats by Dr. Dre",
+		"price": 238000,
+        "category": "headphones",
+		"code": 103,
+		"stock": 15,
+		"thumbnail": []
+	},
+	{
+		"title": "Galaxy Buds In-Ear Headphones",
+		"description": "Wireless Headphones fabricated and distributed by Samsung",
+		"price": 78000,
+        "category": "headphones",
+		"code": 104,
+		"stock": 50,
+		"thumbnail": []
+	},
+	{
+		"title": "Xiaomi Redmi Watch 2 Lite",
+		"description": "Smartwatch manufactured by Xiaomi",
+		"price": 28000,
+        "category": "smartwatch",
+		"code": 105,
+		"stock": 60,
+		"thumbnail": []
+	},
+	{
+		"title": "Samsung Galaxy A33",
+		"description": "Smartphone fabricated and distributed by Samsung",
+		"price": 133000,
+        "category": "smartphone",
+		"code": 106,
+		"stock": 30,
+		"thumbnail": []
+	},
+	{
+		"title": "Lenovo Tablet M10 TB",
+		"description": "Mass-produced and delivered by Lenovo",
+		"price": 88000,
+        "category": "tablet",
+		"code": 107,
+		"stock": 25,
+		"thumbnail": []
+	},
+	{
+		"title": "Sony Headphones WH-CH510",
+		"description": "Fabricated and shaped with Sony components and passion",
+		"price": 25000,
+        "category": "headphones",
+		"code": 108,
+		"stock": 45,
+		"thumbnail": []
+	},
+	{
+		"title": "Dell Inspiron 15",
+		"description": "Netbook assembled by Dell Inc.",
+		"price": 150000,
+        "category": "notbook",
+		"code": 109,
+		"stock": 35,
+		"thumbnail": []
+	},
+	{
+		"title": "Moto Edge 30 Neo",
+		"description": "Smartphone made by Motorola",
+		"price": 160000,
+        "category": "smartphone",
+		"code": 110,
+		"stock": 31,
+		"thumbnail": []
+	},
+	{
+		"title": "Moto G42",
+		"description": "Smartphone made by Motorola",
+		"price": 93000,
+        "category": "smartphone",
+		"code": 111,
+		"stock": 46,
+		"thumbnail": []
+	},
+	{
+		"title": "Samsung Galaxy Tab S6 Lite",
+		"description": "Fabricated and distributed by Samsung",
+		"price": 194000,
+        "category": "tablet",
+		"code": 112,
+		"stock": 39,
+		"thumbnail": []
+	},
+	{
+		"title": "Prune PR-SM01",
+		"description": "Fabricated and distributed by Prune",
+		"price": 89000,
+        "category": "smartwatch",
+		"code": 113,
+		"stock": 39,
+		"thumbnail": []
+	},
+	{
+		"title": "ZTE Blade V40 Vita",
+		"description": "Provided by ZTE",
+		"price": 58500,
+        "category": "smartphone",
+		"code": 114,
+		"stock": 28,
+		"thumbnail": []
+	},
+    {
+		"title": "Xiaomi Smart Band 7 Pro",
+		"description": "Smartwatch manufactured by Xiaomi",
+		"price": 50000,
+        "category": "smartwatch",
+		"code": 115,
+		"stock": 31,
+		"thumbnail": []
+	},
+    {
+		"title": "Noblex HP350BT",
+		"description": "Made and designed by Noblex",
+		"price": 10500,
+        "category": "headphones",
+		"code": 116,
+		"stock": 23,
+		"thumbnail": []
+	},
+    {
+		"title": "Noganet Fit X-2670",
+		"description": "Produced and distributed by Noganet",
+		"price": 6500,
+        "category": "headphones",
+		"code": 117,
+		"stock": 10,
+		"thumbnail": []
+	},
+    {
+		"title": "Samsung Galaxy S23 Plus",
+		"description": "Fabricated and distributed by Samsung",
+		"price": 460000,
+        "category": "smartphone",
+		"code": 118,
+		"stock": 5,
+		"thumbnail": []
+	},
+    {
+		"title": "Philco TP10A332",
+		"description": "Made by Philco",
+		"price": 50000,
+        "category": "tablet",
+		"code": 119,
+		"stock": 25,
+		"thumbnail": []
+	},
+    {
+		"title": "Moto G13 Dual SIM",
+		"description": "Smartphone made by Motorola",
+		"price": 77000,
+        "category": "smartphone",
+		"code": 120,
+		"stock": 30,
+		"thumbnail": []
+	},
+    {
+		"title": "TCL 405",
+		"description": "Provide by TCL",
+		"price": 38000,
+        "category": "smartphone",
+		"code": 121,
+		"stock": 27,
+		"thumbnail": []
+	},
+    {
+		"title": "Apple iPhone 13",
+		"description": "Built and designed by Apple Inc.",
+		"price": 477000,
+        "category": "smartphone",
+		"code": 122,
+		"stock": 3,
+		"thumbnail": []
+	},
+    {
+		"title": "Lenovo Tab P12",
+		"description": "Mass-produced and delivered by Lenovo",
+		"price": 385000,
+        "category": "tablet",
+		"code": 123,
+		"stock": 12,
+		"thumbnail": []
+	},
+    {
+		"title": "HP Elitebook 840 G3",
+		"description": "Mass-produced by HP",
+		"price": 264000,
+        "category": "notebook",
+		"code": 124,
+		"stock": 0,
+		"thumbnail": []
+	},
+    {
+		"title": "Banghó Max L5",
+		"description": "Assembled by Banghó",
+		"price": 298000,
+        "category": "notebook",
+		"code": 125,
+		"stock": 8,
+		"thumbnail": []
+	}
+]
